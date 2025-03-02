@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<table>
+	<record>
+		<id_dancer>1</id_dancer>
+		<name_d>Olga</name_d>
+		<gender>Female</gender>
+		<phone>+79813233838</phone>
+		<level_d>2</level_d>
+	</record>
+	<record>
+		<id_dancer>2</id_dancer>
+		<name_d>Vasiliy</name_d>
+		<gender>Male</gender>
+		<phone>+72326561212</phone>
+		<level_d>1</level_d>
+	</record>
+	<record>
+		<id_dancer>3</id_dancer>
+		<name_d>Aleksandra</name_d>
+		<gender>Female</gender>
+		<phone>+75252525252</phone>
+		<level_d>3</level_d>
+	</record>
+</table>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta content="text/html;charset=utf-8">
+</head>
+<form action = "cgi-bin/client.py" method="post">
+    <fieldset>
+    <h2>Form for Clients</h2>
+    <li>
+    <label for="name">Name:</label>
+          <input type="text" name="name" placeholder="Name" id="name" required>
+    </li>
+    <br></br>
+        <li>
+            <label>Gender:</label>
+            <input checked name="gender" id="male" type="radio" value="male">Male
+            <input name="gender" id="female" type="radio" value="female">Female
+        </li>
+    <br></br>
+        <li>
+          <label for="phone">Phone:</label>
+          <input type="text" name="phone" placeholder="Phone" id="phone" required>
+        </li>
+    <br></br>
+     <li>
+          <label for="level_d">Level (1-10):</label>
+          <select name="level_d" id="level_d" required>
+              <option selected value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+          </select>
+        </li>
+        <br>
+        </br>
+        <button type="submit">OK</button>
+    </fieldset>
+<br>
+    </br>
+</form>
+<form action="cgi-bin/mentor.py" method="post">
+    <fieldset>
+        <h2>Form for Mentors</h2>
+        <li>
+            <label for="name_m">Name: </label>
+            <input id="name_m" name="name_m" placeholder="Name" required type="text">
+        </li>
+        <br>
+        </br>
+        <li>
+            <label for="phone_m">Phone</label>
+            <input id="phone_m" name="phone_m" placeholder="Phone" required type="text">
+        </li>
+        <br>
+        </br>
+        <li>
+            <label for="exp">Experience</label>
+            <input type="number" id="exp" name=exp min="1" placeholder="Number of years">
+        </li>
+        <br>
+        </br>
+        <button type="submit">OK</button>
+    </fieldset>
+</form>
+</html>
