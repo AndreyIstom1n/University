@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54944C95-4F1E-4974-B3FE-AA6D4625F861}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\asus\\desktop\\library-main\\\u0438\u0441\u0442\u043E\u043C\u0438\u043D\\windowsformsapp1\\windowsformsapp1\\new_cont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54944C95-4F1E-4974-B3FE-AA6D4625F861}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\new_cont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54944C95-4F1E-4974-B3FE-AA6D4625F861}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\windowsformsapp1\\upd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54944C95-4F1E-4974-B3FE-AA6D4625F861}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\upd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54944C95-4F1E-4974-B3FE-AA6D4625F861}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\windowsformsapp1\\upd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54944C95-4F1E-4974-B3FE-AA6D4625F861}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\upd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54944C95-4F1E-4974-B3FE-AA6D4625F861}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\windowsformsapp1\\new_cont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54944C95-4F1E-4974-B3FE-AA6D4625F861}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\new_cont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54944C95-4F1E-4974-B3FE-AA6D4625F861}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\windowsformsapp1\\contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54944C95-4F1E-4974-B3FE-AA6D4625F861}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54944C95-4F1E-4974-B3FE-AA6D4625F861}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\windowsformsapp1\\contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54944C95-4F1E-4974-B3FE-AA6D4625F861}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54944C95-4F1E-4974-B3FE-AA6D4625F861}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\windowsformsapp1\\new_univ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54944C95-4F1E-4974-B3FE-AA6D4625F861}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\new_univ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54944C95-4F1E-4974-B3FE-AA6D4625F861}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54944C95-4F1E-4974-B3FE-AA6D4625F861}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "upd.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\WindowsFormsApp1\\upd.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\upd.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\WindowsFormsApp1\\upd.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\upd.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:08:09.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "upd.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\WindowsFormsApp1\\upd.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\upd.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\WindowsFormsApp1\\upd.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\upd.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:11:21.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "new_cont.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\WindowsFormsApp1\\new_cont.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\new_cont.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\WindowsFormsApp1\\new_cont.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\new_cont.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAmwCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:11:11.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "new_cont.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\WindowsFormsApp1\\new_cont.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\new_cont.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\WindowsFormsApp1\\new_cont.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\new_cont.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:11:11.138Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "contracts.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\WindowsFormsApp1\\contracts.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\contracts.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\WindowsFormsApp1\\contracts.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\contracts.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAowFgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:11:07.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "new_univ.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\WindowsFormsApp1\\new_univ.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\new_univ.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\WindowsFormsApp1\\new_univ.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\new_univ.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAcwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:07:00.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:37:48.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "contracts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\WindowsFormsApp1\\contracts.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\contracts.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Library-main\\\u0418\u0441\u0442\u043E\u043C\u0438\u043D\\WindowsFormsApp1\\WindowsFormsApp1\\contracts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\contracts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:04:44.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

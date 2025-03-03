@@ -1,0 +1,171 @@
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.books.resources
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.new_book.resources
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.students.resources
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.main.resources
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.new_student.resources
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.new_univ.resources
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.universitys.resources
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Npgsql.dll
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Channels.dll
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Npgsql.xml
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Channels.xml
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.contracts.resources
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.new_cont.resources
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.upd.resources
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.report_students.resources
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.report_books.resources
+C:\Users\Asus\Desktop\Учеба\3 курс\разработка приложений\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.lost_book.resources
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Npgsql.dll
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Channels.dll
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Npgsql.xml
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Channels.xml
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.books.resources
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.contracts.resources
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.lost_book.resources
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.main.resources
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.new_book.resources
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.new_cont.resources
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.new_student.resources
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.new_univ.resources
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.report_books.resources
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.report_students.resources
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.students.resources
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.universitys.resources
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.upd.resources
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\Desktop\практика\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Npgsql.dll
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Channels.dll
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Npgsql.xml
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Channels.xml
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.books.resources
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.contracts.resources
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.lost_book.resources
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.main.resources
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.new_book.resources
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.new_cont.resources
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.new_student.resources
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.new_univ.resources
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.report_books.resources
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.report_students.resources
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.students.resources
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.universitys.resources
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.upd.resources
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\Desktop\Library-main\Истомин\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
